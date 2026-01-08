@@ -1,0 +1,21 @@
+{
+    "name": "tw-shadi123",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@salla.sa/twilight-bundles": "^0.1.0",
+        "vite": "^5.0.0"
+    },
+    "author": "shadiiali14rrr@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shadiiali14rrr-sudo/tw-shadi123"
+    },
+    "private": true
+}
